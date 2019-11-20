@@ -1,0 +1,68 @@
+html{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+
+header, footer{
+    background-color:#0475cf;
+    padding: 1rem .5rem;
+    color:#fff;
+}
+
+header img{
+    max-width:200px!important;
+}
+
+header a, .navbar-nav li a{
+    color:#fff!important;
+}
+
+
+section.intro-productos{
+    background-color: #bbb;
+    padding: 30px;
+    text-align: center;
+}
+
+section.intro-productos .col-md-4{
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:#fff;
+    min-height: 250px;
+    align-items: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+section.intro-productos .col-md-4:nth-child(1){
+    background-image: url(../img/combo1.jpg);
+
+}
+section.intro-productos .col-md-4:nth-child(2){
+    background-image: url(../img/combo2.jpg);
+
+}
+section.intro-productos .col-md-4:nth-child(3){
+    background-image: url(../img/combo3.jpg);
+
+}
+section.intro-productos .col-md-4:nth-child(4){
+    background-image: url(../img/combo4.jpg);
+
+}
+section.intro-productos .col-md-4:nth-child(5){
+    background-image: url(../img/combo5.jpg);
+
+}
+section.intro-productos .col-md-4:nth-child(6){
+    background-image: url(../img/combo6.jpg);
+
+}
