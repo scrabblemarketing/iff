@@ -43,26 +43,26 @@ section.intro-productos .col-md-4{
 }
 
 section.intro-productos .col-md-4:nth-child(1){
-    background-image: url(../img/combo1.jpg);
+    background-image: url(../img/2x/parte1.png);
 
 }
 section.intro-productos .col-md-4:nth-child(2){
-    background-image: url(../img/combo2.jpg);
+    background-image: url(../img/2x/parte2.png);
 
 }
 section.intro-productos .col-md-4:nth-child(3){
-    background-image: url(../img/combo3.jpg);
+    background-image: url(../img/2x/parte3.png);
 
 }
 section.intro-productos .col-md-4:nth-child(4){
-    background-image: url(../img/combo4.jpg);
+    background-image: url(../img/2x/parte4.png);
 
 }
 section.intro-productos .col-md-4:nth-child(5){
-    background-image: url(../img/combo5.jpg);
+    background-image: url(../img/2x/parte5.png);
 
 }
 section.intro-productos .col-md-4:nth-child(6){
-    background-image: url(../img/combo6.jpg);
+    background-image: url(../img/2x/parte6.png);
 
 }
